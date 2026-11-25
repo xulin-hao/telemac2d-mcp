@@ -1,0 +1,12 @@
+/.venv/
+/.uv-cache/
+/.tmp/
+/.runtime.cmd
+/cases/
+/runs/
+__pycache__/
+*.py[cod]
+*.msi
+*.slf
+*.res
+*.log
